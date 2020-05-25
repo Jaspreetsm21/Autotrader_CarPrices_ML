@@ -42,6 +42,26 @@ After downloading the data, I needed to clean it up so that it was usable for ou
 
 ![](Images/moving%20avg.PNG)
 
+**Insight**
+
+Average Car Prices are around £12,000 
+
+75% of cars has mileage less than 56,000 miles.
+
+30,000 is the average car mileage
+
+Negative Correlation make sense as car mileage goes up the car prices comes down.
+
+Hybrid and Diesel cars are clearly more expensive than petrol cars.
+
+On Average Hybrid Cars are £2,000 more expensive than petrol cars. The reason could be Hybrid cars were introduced in early 2000s and its still growing in its popularity as environmental crisis are widely discussed.
+
+On Average Automatic cars are £1,500 more expensive than Manual.
+
+Ford is the most listed car on AutoTrade and also it is most common car sold in UK.
+
+It is interesting to see most cars listed on Auto trades shows that 2.0L producing more Automatic Cars compare to any other engine size which is mainly dominated by manual cars.
+
 
 
 
