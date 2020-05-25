@@ -32,7 +32,7 @@ After downloading the data, I needed to clean it up so that it was usable for ou
 
 # EDA
 
-![](Images/Car_Price_1.PNG)  ![](Images/Car_Price_2.PNG)
+![](Images/Car_Price_1.PNG)![](Images/Car_Price_2.PNG)
 
 ![](Images/carpricevsmileage.PNG)
 
