@@ -65,5 +65,7 @@ Random Forest – Again, with the sparsity associated with the data, I thought t
 The Random Forest model far outperformed the other approaches on the test and validation sets.
 
 Random Forest : MAE = 479
+
 Decision Tree MAE = 1760
+
 Lasso Regression: MAE = 1609
