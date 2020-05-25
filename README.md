@@ -90,7 +90,7 @@ I tried four different models:
 
 Lasso  – Baseline for the model
 
-Decision Tree and kneighborsclassifier 
+Decision Tree and kneighborsregressor
 
 Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit.
 
