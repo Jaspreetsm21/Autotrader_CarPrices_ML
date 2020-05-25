@@ -34,7 +34,7 @@ I scraped over 8000 Car listing from autotrade.com. With each listing, we got th
 
 
 # Model 
-First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 20%.
+First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 25%.
 
 I tried four different models and evaluated them using Mean Absolute Error.  I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.
 
