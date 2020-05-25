@@ -36,7 +36,19 @@ I scraped over 8000 Car listing from autotrade.com. With each listing, we got th
 
 
 # Data Cleaning
-After downloading the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
+After scraping the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
+
+- Dealing with Missing Values
+
+- It look we have scrapered some data that imported into wrong columns. So I'm going to filter the data for Petrol, Diesel and Hybrid cars only.
+
+- creating a new column called make of the car from Car_Title Column
+
+- Converting Car_Price and Car_Milleage into Numeric Values
+
+- Before that remove £ sign and comma from each of the columns
+
+- 
 
 # EDA
 
