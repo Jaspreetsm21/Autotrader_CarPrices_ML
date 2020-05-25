@@ -40,11 +40,11 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 - Dealing with Missing Values
 
-- It look we have scrapered some data that imported into wrong columns. So I'm going to filter the data for Petrol, Diesel and Hybrid cars only.
+- It looks like we have scraped some data that imported into wrong columns. So I'm going to filter the data for Petrol, Diesel and Hybrid cars only.
 
-- creating a new column called make of the car from Car_Title Column
+- creating a new column called Car_Make - that we extracted from Car_Title Column
 
-- Converting Car_Price and Car_Milleage into Numeric Values - before that remove £ sign and comma from each of the columns
+- Converting Car_Price and Car_Mileage into Numeric Values - before that I'm going to remove £ sign and comma from each of the columns
 
 # EDA
 
