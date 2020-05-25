@@ -28,7 +28,7 @@ I scraped over 8000 Car listing from autotrade.com. With each listing, we got th
 - Year 
 
 # Data Cleaning
-
+After downloading the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
 
 # EDA
 
@@ -45,6 +45,10 @@ Lasso  – Baseline for the model
 Decision Tree and kneighborsclassifier 
 
 Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit.
+
+## Feature Enginerry 
+
+![]('Images/Feature_Eng.PNG')
 
 # Evalution
 
