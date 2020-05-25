@@ -44,11 +44,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 - creating a new column called make of the car from Car_Title Column
 
-- Converting Car_Price and Car_Milleage into Numeric Values
-
-- Before that remove £ sign and comma from each of the columns
-
-- 
+- Converting Car_Price and Car_Milleage into Numeric Values - before that remove £ sign and comma from each of the columns
 
 # EDA
 
@@ -104,8 +100,8 @@ Random Forest – Again, with the sparsity associated with the data, I thought t
 
 The Random Forest model far outperformed the other approaches on the test and validation sets.
 
-Random Forest : MAE = 479
+**Random Forest:** MAE = 479
 
-Decision Tree MAE = 1760
+**Decision Tree:**  MAE = 1760
 
-Lasso Regression: MAE = 1609
+**Lasso Regression:** MAE = 1609
