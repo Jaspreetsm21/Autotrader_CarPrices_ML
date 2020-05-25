@@ -36,7 +36,7 @@ After downloading the data, I needed to clean it up so that it was usable for ou
 
 ![](Images/carpricevsmileage.PNG)
 
-![](Images/correlation.PNG) ![](Images/type%20of%20vehicle.PNG)
+![](corr.PNG) ![](Images/type%20of%20vehicle.PNG)
 
 ![](Images/make.PNG)
 
