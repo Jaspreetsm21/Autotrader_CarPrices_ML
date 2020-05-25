@@ -13,6 +13,13 @@
 **Scraper Resource**: https://stackoverflow.com/questions/60012952/how-to-code-a-for-loop-in-python-for-a-web-scraper
 
 # Web Scraping
+Auto trade only allows to scraper top 1000 listing per search. To extract large amount of data, I created a list of postcode around the UK and used for loop to scraper car data around postcodes and pages.
+
+1. I decided to pick 10 postcodes around the UK to extract large amount of data as 1000 listing per Search and each page has roughly 10 car listings
+
+2. I'm extracting information like car title, prices, mileage, engine size ,gearbox and etc.
+
+![](map.PNG)
 
 I scraped over 8000 Car listing from autotrade.com. With each listing, we got the following:
 
@@ -27,13 +34,6 @@ I scraped over 8000 Car listing from autotrade.com. With each listing, we got th
 - Type of Fuel (Petrol,Diesel or Hybrid)
 - Year 
 
-Auto trade only allows to scraper top 1000 listing per search. To extract large amount of data, I created a list of postcode around the UK and used for loop to scraper car data around postcodes and pages.
-
-1. I decided to pick 10 postcodes around the UK to extract large amount of data as 1000 listing per Search and each page has roughly 10 car listings
-
-2. I'm extracting information like car title, prices, mileage, engine size ,gearbox and etc.
-
-![](map.PNG)
 
 # Data Cleaning
 After downloading the data, I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
