@@ -32,6 +32,18 @@ After downloading the data, I needed to clean it up so that it was usable for ou
 
 # EDA
 
+![](Images/Car_Price_1.PNG) ![](Images/Car_Price_2.PNG)
+
+![](Images/carpricevsmileage.PNG)
+
+![](Images/correlation.PNG) ![](Images/type%20of%20vehicle.PNG)
+
+![](Images/make.PNG)
+
+![](Images/moving%20avg.PNG)
+
+
+
 
 # Model 
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 25%.
@@ -46,9 +58,7 @@ Decision Tree and kneighborsclassifier
 
 Random Forest – Again, with the sparsity associated with the data, I thought that this would be a good fit.
 
-## Feature Enginerry 
-
-![]('Images/Feature_Eng.PNG')
+![](Images/Feature_Eng.PNG)
 
 # Evalution
 
