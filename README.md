@@ -1,7 +1,7 @@
 # Car Price Estimator: Data Science Project Overview
 
 - Created a tool that estimates car prices (MAE ~ £400) to help car owners/buyers to negotiate the deal. 
-- Scraped over 8000 car listing from auto trade using python and beautifulsoup
+- Scraped over 8000 car listing from auto trader using python and beautifulsoup
 - Optimized Linear, Lasso, Decision Tree and Random Forest Regressors using GridsearchCV to reach the best model.
 
 # Code and Resources Used
@@ -13,7 +13,7 @@
 **Scraper Resource**: https://stackoverflow.com/questions/60012952/how-to-code-a-for-loop-in-python-for-a-web-scraper
 
 # Web Scraping
-Auto trade only allows to scraper top 1000 listing per search. To extract large amount of data, I created a list of postcode around the UK and used for loop to scraper car data around postcodes and pages.
+Auto trader only allows to scraper top 1000 listing per search. To extract large amount of data, I created a list of postcode around the UK and used for loop to scraper car data around postcodes and pages.
 
 1. I decided to pick 10 postcodes around the UK to extract large amount of data as 1000 listing per Search and each page has roughly 10 car listings
 
@@ -21,7 +21,7 @@ Auto trade only allows to scraper top 1000 listing per search. To extract large 
 
 ![](map.PNG)
 
-I scraped over 8000 Car listing from autotrade.com. With each listing, we got the following:
+I scraped over 8000 Car listing from autotrader.co.uk. With each listing, we got the following:
 
 - Title
 - Price
@@ -74,9 +74,9 @@ On Average Hybrid Cars are £2,000 more expensive than petrol cars. The reason c
 
 On Average Automatic cars are £1,500 more expensive than Manual.
 
-Ford is the most listed car on AutoTrade and also it is most common car sold in UK.
+Ford is the most listed car on AutoTrader and also it is most common car sold in UK.
 
-It is interesting to see most cars listed on Auto trades shows that 2.0L producing more Automatic Cars compare to any other engine size which is mainly dominated by manual cars.
+It is interesting to see most cars listed on Auto traders shows that 2.0L producing more Automatic Cars compare to any other engine size which is mainly dominated by manual cars.
 
 
 
