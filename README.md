@@ -62,15 +62,15 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 Average Car Prices are around £12,000 
 
-75% of cars has mileage less than 56,000 miles.
+75% of cars has mileage less than 53,000 miles.
 
-30,000 is the average car mileage
+28,000 is the average car mileage
 
 Negative Correlation make sense as car mileage goes up the car prices comes down.
 
-Hybrid and Diesel cars are clearly more expensive than petrol cars.
+Hybrid cars are clearly more expensive than petrol and Diesel cars.
 
-On Average Hybrid Cars are £2,000 more expensive than petrol cars. The reason could be Hybrid cars were introduced in early 2000s and its still growing in its popularity as environmental crisis are widely discussed.
+On Average Hybrid Cars are £1,500 more expensive than petrol cars. The reason could be Hybrid cars were introduced in early 2000s and its still growing in its popularity as environmental crisis are widely discussed.
 
 On Average Automatic cars are £1,500 more expensive than Manual.
 
@@ -100,8 +100,8 @@ Random Forest – Again, with the sparsity associated with the data, I thought t
 
 The Random Forest model far outperformed the other approaches on the test and validation sets.
 
-**Random Forest:** MAE = 479
+**Random Forest:** MAE = 1539
 
-**Decision Tree:**  MAE = 1760
+**Decision Tree:**  MAE = 2119
 
-**Lasso Regression:** MAE = 1609
+**Lasso Regression:** MAE = 1964
