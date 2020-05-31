@@ -48,7 +48,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 # EDA
 
-![](Images/Car_Price_1.PNG)![](Images/Car_Price_2.PNG)
+![](Images/Car1.PNG)![](Images/Car2.PNG)
 
 ![](Images/carpricevsmileage.PNG)
 
