@@ -12,7 +12,7 @@
 
 **Scraper Resource**: https://stackoverflow.com/questions/60012952/how-to-code-a-for-loop-in-python-for-a-web-scraper
 
-# Web Scraping
+# [Web Scraping](https://github.com/Jaspreetsm21/Autotrader_CarPrices_ML/blob/master/AutoTrader%20-%20Web%20Scraper%20.ipynb)
 Auto trader only allows to scraper top 1000 listing per search. To extract large amount of data, I created a list of postcode around the UK and used for loop to scraper car data around postcodes and pages.
 
 1. I decided to pick 10 postcodes around the UK to extract large amount of data as 1000 listing per Search and each page has roughly 10 car listings
@@ -46,7 +46,7 @@ After scraping the data, I needed to clean it up so that it was usable for our m
 
 - Converting Car_Price and Car_Mileage into Numeric Values - before that I'm going to remove £ sign and comma from each of the columns
 
-# EDA
+# [EDA](https://github.com/Jaspreetsm21/Autotrader_CarPrices_ML/blob/master/AutoTrader%20-%20EDA.ipynb)
 
 ![](Images/Car1.PNG)![](Images/Car2.PNG)
 
