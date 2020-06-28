@@ -81,7 +81,7 @@ It is interesting to see most cars listed on Auto traders shows that 2.0L produc
 
 
 
-# Model 
+# [Model](https://github.com/Jaspreetsm21/Autotrader_CarPrices_ML/blob/master/Autotrader%20-%20Model%20.ipynb) 
 First, I transformed the categorical variables into dummy variables. I also split the data into train and tests sets with a test size of 25%.
 
 I tried four different models and evaluated them using Mean Absolute Error.  I chose MAE because it is relatively easy to interpret and outliers aren’t particularly bad in for this type of model.
